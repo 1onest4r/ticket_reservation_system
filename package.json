@@ -1,0 +1,20 @@
+{
+  "name": "ticket_reservation_system",
+  "version": "1.0.0",
+  "description": "The Global Event Ticket Reservation System allows users to:\r - Browse events\r - View event information\r - Select tickets\r - Reserve tickets\r - Make payments\r - Receive electronic tickets\r ## Development Workflow\r User Story\r → GitHub Issue\r → Feature Branch\r → Implementation\r → Commit\r → Pull Request\r → Merge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1onest4r/ticket_reservation_system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1onest4r/ticket_reservation_system/issues"
+  },
+  "homepage": "https://github.com/1onest4r/ticket_reservation_system#readme"
+}
